@@ -1,9 +1,13 @@
-**SQL---RockbusterVideoRental**
-**Introduction**
+# **SQL---RockbusterVideoRental**
+
+Data-driven presentation to answer the business questions was created for the Management Board, Data dictionary and SQLs used to answer the key questions were shared to the technical team.
+
+
+## Introduction
 
 Rockbuster Stealth LLC, once a global chain of movie rental stores, is now facing intense competition from streaming giants like Netflix and Amazon Prime. To remain competitive, the Rockbuster Stealth management team is planning to leverage its existing movie licenses to launch an online video rental service.
 
-**Key Questions & Objectives**
+## **Key Questions & Objectives**
 
 The Management Board of Rockbuster Stealth has posed several critical business questions that require data-driven answers to shape the company’s strategy for 2020. They seek insights on the following:
 
@@ -13,6 +17,6 @@ The Management Board of Rockbuster Stealth has posed several critical business q
 - Where are the customers with the highest lifetime value located?
 - How do sales figures differ across different geographic regions?
 
- **Data & Tools**
+ ## **Data & Tools**
 
 For this analysis, we utilized Rockbuster’s relational database management system and PostgreSQL. The dataset comprises detailed information about Rockbuster’s film inventory, customers, payments, stores, staff, films, actors, rental history, and addresses. This comprehensive data enabled us to provide precise answers to the Management Board's questions.
